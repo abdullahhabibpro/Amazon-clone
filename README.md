@@ -26,15 +26,3 @@ A fully responsive Amazon clone built with HTML, CSS, and Font Awesome icons. Th
    ```
 3. Open `index.html` in your browser.
 
-## Screenshots
-![Amazon Clone](screenshot.png)
-
-## Live Demo
-You can check out the live version [here](https://your-live-demo-link.com).
-
-## Contributing
-Feel free to fork the repository and submit pull requests for improvements!
-
-## License
-This project is for educational purposes only and does not intend to infringe on Amazon's trademarked design.
-
